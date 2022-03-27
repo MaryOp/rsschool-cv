@@ -2,9 +2,8 @@
 ## **Junior Frontend developer**
 
 ---
-|        |                                       |          |                                                           |
+| CONTACTS |                                       |          |                                                           |
 |:-------|:--------------------------------------|:---------|:----------------------------------------------------------|
-| Age    | 29 years                              | Location | Saint-Petersburg, Russia                                  |
 | Phone  | +7-952-204-73-41                      | E-mail   | <mar-opolchentseva@yandex.ru>                             |
 | GitHub | [MaryOp](https://github.com/MaryOp)   | Discord  | [MaryO @MaryOp](https://discordapp.com/users/MaryOp#1684) |
 
