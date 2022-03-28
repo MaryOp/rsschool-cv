@@ -2,10 +2,11 @@
 ## **Junior Frontend developer**
 
 ---
+
 | CONTACTS |                                       |          |                                                           |
-|:-------|:--------------------------------------|:---------|:----------------------------------------------------------|
-| Phone  | +7-952-204-73-41                      | E-mail   | <mar-opolchentseva@yandex.ru>                             |
-| GitHub | [MaryOp](https://github.com/MaryOp)   | Discord  | [MaryO @MaryOp](https://discordapp.com/users/MaryOp#1684) |
+|:---------|:--------------------------------------|:---------|:----------------------------------------------------------|
+| Phone    | +7-952-204-73-41                      | E-mail   | <mar-opolchentseva@yandex.ru>                             |
+| GitHub   | [MaryOp](https://github.com/MaryOp)   | Discord  | [MaryO @MaryOp](https://discordapp.com/users/MaryOp#1684) |
 
 --- 
 
@@ -28,6 +29,7 @@ I've been working as an economist for 7 years. It's quite a long period and I be
 ---
 
 #### CODE EXAMPLE
+
 __Credit card mask KATA from CODEWARS__:
 Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it.
 
