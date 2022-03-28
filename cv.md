@@ -3,10 +3,12 @@
 
 ---
 
-| CONTACTS |                                       |          |                                                           |
-|:---------|:--------------------------------------|:---------|:----------------------------------------------------------|
-| Phone    | +7-952-204-73-41                      | E-mail   | <mar-opolchentseva@yandex.ru>                             |
-| GitHub   | [MaryOp](https://github.com/MaryOp)   | Discord  | [MaryO @MaryOp](https://discordapp.com/users/MaryOp#1684) |
+#### CONTACTS 
+
+* Phone     +7-952-204-73-41  
+* E-mail    <mar-opolchentseva@yandex.ru> 
+* GitHub    [MaryOp](https://github.com/MaryOp)   
+* Discord   [MaryO @MaryOp](https://discordapp.com/users/MaryOp#1684) 
 
 --- 
 
